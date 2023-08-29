@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.imageColumn {
+    width: 200px ;
+    text-align: center;
+}
+
+.textColumn {
+    width: 600px ;
+}
+
+.imageContainer {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.archTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.archTable td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+
